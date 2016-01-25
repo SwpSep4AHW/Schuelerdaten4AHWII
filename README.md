@@ -1,5 +1,5 @@
 <hr> Marcel Berwanger: </hr>       https://github.com/MarcelBerwanger<p>
-Thomas Braunegger:      https://github.com/thomasbraunegger<p>
+Thomas Braunegger:      https://github.com/thomasbraunegger
 Benjamin Cilga:         https://github.com/Cilga<p>
 Max Ebner:              https://github.com/Max004<p>
 Markus Egger:           https://github.com/markus9991<p>
