@@ -1,4 +1,4 @@
-<hr> Marcel Berwanger: </hr>       https://github.com/MarcelBerwanger
+<hr> Marcel Berwanger: </hr>       https://github.com/MarcelBerwanger <p>
 Thomas Braunegger:      https://github.com/thomasbraunegger
 Benjamin Cilga:         https://github.com/Cilga
 Max Ebner:              https://github.com/Max004
